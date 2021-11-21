@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410865254909",
+    "project_id": "newtinder-70196",
+    "storage_bucket": "newtinder-70196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410865254909:android:dc170a2283398161805994",
+        "android_client_info": {
+          "package_name": "com.newtinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410865254909-bglri9qhnhgsd3rorkgv3qa9ir7381kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw5u6QTNrs3OVbRcZyDqGXgImpA_qT6P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410865254909-bglri9qhnhgsd3rorkgv3qa9ir7381kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

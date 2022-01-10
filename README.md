@@ -3,8 +3,7 @@ This is Tinder React Native App
 -This Project is built by React Native, ContextAPI, RNTailwind CSS and Firebase
 
 ---Main Function---
-
-1）Matching Function
+1) Matching Function 
 2) 1-1 chat with Match User
 
 

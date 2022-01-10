@@ -13,4 +13,5 @@ This is Tinder React Native App
 1) User Profile
 2) Filter function with location, hobby and so on
 3) Re-Swap with pass user
-3) Adding Datting suggestion function
+4) Adding Datting suggestion function
+5) Post Feeds
